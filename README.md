@@ -36,8 +36,8 @@ Download the code
 git clone https://github.com/wangwang-xyz/Apple-MOT.git
 ```
 
-Download the data in [here](https://pan.baidu.com/s/1BtX1u6M-M_xdVlu5DOT8fQ?pwd=5gwr).
-Extract code: 5gwr 
+Download the data in [here](https://pan.baidu.com/s/1oJ1AN9TAZK2kKyGwlH_BmQ).
+Extract code: *fisi* 
 
 Add your GPU into FlowNet2 config files:
 
