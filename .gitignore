@@ -1,0 +1,9 @@
+data/apple_disease/*
+data/MinneApple/*
+data/MyData/*
+data/OpticalFlow/*
+data/*.zip
+flownet2/checkpoints/*
+yolov5/runs/*
+yolov5/*.pt
+*.zip
